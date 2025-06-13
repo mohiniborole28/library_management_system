@@ -50,7 +50,7 @@ A simple web-based Library Management System to showcase book listings, library 
     - other UI assets  
   - 404.html
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **HTML5**
 - **CSS3**
