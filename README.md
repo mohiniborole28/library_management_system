@@ -12,33 +12,42 @@ A simple web-based Library Management System to showcase book listings, library 
 -  Stylish UI with responsive design
 -  jQuery-based slider and lightbox plugins
 
-##  Folder Structure
+## 📁 Folder Structure
 
-Library Management/
-  - index.html
-  - about.html
-  - contact.html
-  - service.html
-  - staff.html
-    
-  -  css/
-      -style.css
-      -lightbox.css
-      -slider.css
-
+- Library Management/
+  - index.html  
+  - about.html  
+  - contact.html  
+  - service.html  
+  - staff.html  
+  - css/
+    - style.css  
+    - lightbox.css  
+    - slider.css  
   - js/
-     -jquery-1.9.0.min.js
-     -jquery.lightbox.js
-     -jquery.nivo.slider.js
-
+    - jquery-1.9.0.min.js  
+    - jquery.lightbox.js  
+    - jquery.nivo.slider.js  
   - images/
-     -banner1.jpg
-     -banner2.jpg
-     -banner3.jpg
-     -gallery1.jpg ... gallery6.jpg
-     -icons, logos, staff images
-     -other UI assets
-
+    - banner1.jpg  
+    - banner2.jpg  
+    - banner3.jpg  
+    - gallery1.jpg  
+    - gallery2.jpg  
+    - gallery3.jpg  
+    - gallery4.jpg  
+    - gallery5.jpg  
+    - gallery6.jpg  
+    - icons/
+      - icon1.jpg  
+      - icon2.jpg  
+      - icon3.jpg  
+    - logos/
+      - logo.png  
+      - logo1.png  
+    - staff/
+      - staff1.jpg  
+    - other UI assets  
   - 404.html
 
 ## 🛠 Technologies Used
