@@ -22,33 +22,30 @@ Library Management/
   - staff.html
     
   -  css/
-      --style.css
-      --lightbox.css
-      --slider.css
+      -style.css
+      -lightbox.css
+      -slider.css
 
   - js/
-     -- jquery-1.9.0.min.js
-     -- jquery.lightbox.js
-     -- jquery.nivo.slider.js
+     -jquery-1.9.0.min.js
+     -jquery.lightbox.js
+     -jquery.nivo.slider.js
 
   - images/
-     -- banner1.jpg
-     -- banner2.jpg
-     -- banner3.jpg
-     -- gallery1.jpg ... gallery6.jpg
-     -- icons, logos, staff images
-     -- other UI assets
+     -banner1.jpg
+     -banner2.jpg
+     -banner3.jpg
+     -gallery1.jpg ... gallery6.jpg
+     -icons, logos, staff images
+     -other UI assets
 
   - 404.html
-
-
 
 ## 🛠 Technologies Used
 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-
 
 
 ##  How to Run
